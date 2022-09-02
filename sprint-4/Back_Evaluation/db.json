@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "Hname": "fgroup",
+      "Haddress": "dfsa",
+      "id": 1
+    },
+    {
+      "Hname": "faisdkah",
+      "Haddress": "glknaglkn",
+      "id": 2
+    },
+    {
+      "Hname": "madhuri",
+      "Haddress": "madhubani",
+      "id": 3
+    },
+    {
+      "Hname": "y5",
+      "Haddress": "55",
+      "id": 4
+    }
+  ],
+  "doctors": [
+    {
+      "name": "aa",
+      "hospital": "fgroup",
+      "spec": "react",
+      "salary": 75757,
+      "id": 1
+    },
+    {
+      "name": "sonu ",
+      "hospital": "fgroup",
+      "spec": "react",
+      "salary": 867897,
+      "id": 2
+    },
+    {
+      "name": "Sonu Prasad",
+      "hospital": "fgroup",
+      "spec": "mbbs",
+      "salary": 32,
+      "id": 3
+    },
+    {
+      "name": "sonu",
+      "hospital": "fgroup",
+      "spec": "mbbs",
+      "salary": 34343,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
